@@ -2,7 +2,7 @@
 <!----------------------------------------------------------------------------->
 [Button Icon]: https://img.shields.io/badge/-Live%20view-blueviolet
 
-![landing page](PixelArt.png)
+![PixelArt](PixelArt.png)
 
 ## Technologies
 Project is created with:
